@@ -17,6 +17,32 @@
   </a>
 </p>
 
+<h2 align="center">🌌 Portfolio Preview</h2>
+
+<p align="center">
+  <a href="https://emma3tc-landing.vercel.app/" target="_blank">
+    <img
+      src="https://github.com/user-attachments/assets/36e8bbaf-9df0-4ff8-90e5-9f02ccab2d33"
+      alt="Portfolio Preview"
+      width="100%"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://emma3tc-landing.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Live_Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+  </a>
+
+  <a href="https://github.com/Emma3TC-main">
+    <img src="https://img.shields.io/badge/GitHub_Profile-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+scalable+systems...;Designing+modern+software+architecture...;Engineering+cloud+and+data+solutions...;Always+learning+new+technologies+🚀"/>
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -196,6 +222,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Emma3TC-main&theme=tokyo-night"/>
 </p>
 
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
+</p>
 ---
 
 # 🎯 Current Focus
@@ -217,10 +246,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 </p>
 
@@ -229,6 +254,8 @@
 <p align="center">
   <img src="https://profile-counter.glitch.me/Emma3TC-main/count.svg"/>
 </p>
+
+
 
 
 

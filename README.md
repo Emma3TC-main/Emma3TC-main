@@ -37,7 +37,11 @@
 - 🧠 Strong analytical and mathematical background from the **IB Diploma Programme**
 - 🌎 Always learning and building technology that creates real impact
 
-<br>
+<br clear="right">
+
+<p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=Emma3TC-main&data=followers,repositories,stars,commits&theme=dark"/>
+</p>
 
 ---
 
@@ -58,6 +62,10 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg"/>
+</p>
 
 # 🛠️ Tech Stack
 
@@ -203,5 +211,24 @@
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0%3A00F7FF%2C100%3A6A5ACD&height=120&section=footer"/>
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+</p>
+
+<h2 align="center">⚡ Visitor Activity ⚡</h2>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Emma3TC-main/count.svg"/>
+</p>
+
 
 

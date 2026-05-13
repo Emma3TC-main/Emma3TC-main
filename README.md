@@ -153,27 +153,35 @@
 <p align="center">
 
 <a href="https://github.com/Emma3TC-main/random-fates-frontend">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Emma3TC-main&repo=random-fates-frontend&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Emma3TC-main&repo=random-fates-frontend&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </a>
 
 <a href="https://github.com/Emma3TC-main/randomfates-backend">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Emma3TC-main&repo=randomfates-backend&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Emma3TC-main&repo=randomfates-backend&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </a>
 
+</p>
+
+<p align="center">
+
 <a href="https://github.com/Emma3TC-main/sistema-autoatencion">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Emma3TC-main&repo=sistema-autoatencion&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Emma3TC-main&repo=sistema-autoatencion&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </a>
 
 <a href="https://github.com/Emma3TC-main/innovex_app">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Emma3TC-main&repo=innovex_app&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Emma3TC-main&repo=innovex_app&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </a>
 
+</p>
+
+<p align="center">
+
 <a href="https://github.com/Emma3TC-main/irentaspro-backend">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Emma3TC-main&repo=irentaspro-backend&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Emma3TC-main&repo=irentaspro-backend&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </a>
 
 <a href="https://github.com/Emma3TC-main/atm">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Emma3TC-main&repo=atm&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Emma3TC-main&repo=atm&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </a>
 
 </p>

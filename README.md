@@ -1,4 +1,3 @@
-```markdown
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0%3A00F7FF%2C100%3A6A5ACD&height=250&section=header&text=Emmanuel%20Torres%20Centeno&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Big%20Data%20%7C%20Backend%20Developer&descAlignY=55&descAlign=50"/>
 </p>
@@ -204,5 +203,5 @@
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0%3A00F7FF%2C100%3A6A5ACD&height=120&section=footer"/>
 </p>
-```
+
 

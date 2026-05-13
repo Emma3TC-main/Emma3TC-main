@@ -223,6 +223,7 @@
 <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emma3TC-main&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </p>
+
 ---
 
 # 🏆 GitHub Trophies
@@ -242,6 +243,7 @@
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
 </p>
+
 ---
 
 # 🎯 Current Focus

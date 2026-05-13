@@ -1,4 +1,8 @@
 ```markdown
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=250&section=header&text=Emmanuel%20Torres%20Centeno&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Big%20Data%20%7C%20Backend%20Developer&descAlignY=55&descAlign=50"/>
+</p>
+
 <img align="right" src="https://komarev.com/ghpvc/?username=Emma3TC-main&label=Profile%20Views&color=0e75b6&style=flat">
 
 # Emmanuel Misael Torres Centeno <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45"/>
@@ -79,8 +83,6 @@
 ---
 
 # Featured Projects 🚀
-
-> Replace these repositories with your real pinned repositories.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Emma3TC-main&repo=random-fates-frontend&theme=tokyonight)](https://github.com/Emma3TC-main/random-fates-frontend)
 

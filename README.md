@@ -4,7 +4,7 @@
 # Emmanuel Misael Torres Centeno <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45"/>
 
 <p align="center">
-  <a href="https://github.com/tuusuario">
+  <a href="https://github.com/Emma3TC-main">
     <img src="https://readme-typing-svg.herokuapp.com?font=Futura&color=00F7FF&size=25&center=true&vCenter=true&width=1200&height=45&lines=Software+Engineering+Student+👨‍💻;Top+10%25+Student+at+UTP+🎓;Big+Data+%26+Data+Engineering+Enthusiast+📊;Backend+Developer+%7C+Systems+Architecture+⚙️;Cybersecurity+%26+Cloud+Computing+🔐;Building+Scalable+and+Intelligent+Solutions+🚀;Welcome+to+my+GitHub+Profile+✨">
   </a>
 </p>
@@ -32,7 +32,7 @@
 
 - 💼 LinkedIn: [linkedin.com/in/emtc-software](https://linkedin.com/in/emtc-software)
 - 📧 Email: **tcemmasv@gmail.com**
-- 🐙 GitHub: [github.com/tuusuario](https://github.com/tuusuario)
+- 🐙 GitHub: [github.com/tuusuario](https://github.com/Emma3TC-main)
 
 ---
 

@@ -150,38 +150,62 @@
 
 # 🚀 Featured Projects
 
-<p align="center">
+<table align="center">
+<tr>
+<td width="50%">
 
 <a href="https://github.com/Emma3TC-main/random-fates-frontend">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Emma3TC-main&repo=random-fates-frontend&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emma3TC-main&repo=random-fates-frontend&theme=tokyonight&hide_border=true" />
 </a>
+
+</td>
+<td width="50%">
 
 <a href="https://github.com/Emma3TC-main/randomfates-backend">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Emma3TC-main&repo=randomfates-backend&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emma3TC-main&repo=randomfates-backend&theme=tokyonight&hide_border=true" />
 </a>
 
-</p>
+</td>
+</tr>
 
-<p align="center">
+<tr>
+<td width="50%">
 
 <a href="https://github.com/Emma3TC-main/sistema-autoatencion">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Emma3TC-main&repo=sistema-autoatencion&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emma3TC-main&repo=sistema-autoatencion&theme=tokyonight&hide_border=true" />
 </a>
+
+</td>
+<td width="50%">
 
 <a href="https://github.com/Emma3TC-main/innovex_app">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Emma3TC-main&repo=innovex_app&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emma3TC-main&repo=innovex_app&theme=tokyonight&hide_border=true" />
 </a>
 
-</p>
+</td>
+</tr>
+</table>
+
+---
+
+## ⚡ More Projects
 
 <p align="center">
 
-<a href="https://github.com/Emma3TC-main/irentaspro-backend">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Emma3TC-main&repo=irentaspro-backend&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<a href="https://github.com/Emma3TC-main/atm">
+  <img src="https://img.shields.io/badge/ATM_System-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Emma3TC-main/atm">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Emma3TC-main&repo=atm&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<a href="https://github.com/Emma3TC-main/irentaspro-backend">
+  <img src="https://img.shields.io/badge/iRentasPro_Backend-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Emma3TC-main/iesj-mobile-store">
+  <img src="https://img.shields.io/badge/IESJ_Mobile_Store-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Emma3TC-main/votacion">
+  <img src="https://img.shields.io/badge/Votacion_System-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>

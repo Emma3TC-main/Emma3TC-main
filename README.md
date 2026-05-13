@@ -260,7 +260,7 @@
 <h2 align="center">⚡ Visitor Activity ⚡</h2>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Emma3TC-main/count.svg"/>
+  <img src="https://komarev.com/ghpvc/?username=Emma3TC-main&style=flat-square&color=blueviolet"/>
 </p>
 
 

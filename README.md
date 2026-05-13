@@ -211,9 +211,11 @@
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Emma3TC-main&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em"
+  src="https://github-readme-stats.vercel.app/api?username=Emma3TC-main&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emma3TC-main&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emma3TC-main&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </p>
 

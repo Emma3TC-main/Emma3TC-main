@@ -82,12 +82,13 @@
 
 > Replace these repositories with your real pinned repositories.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=nombre-repo&theme=tokyonight)](https://github.com/tuusuario/nombre-repo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Emma3TC-main&repo=random-fates-frontend&theme=tokyonight)](https://github.com/Emma3TC-main/random-fates-frontend)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=nombre-repo2&theme=tokyonight)](https://github.com/tuusuario/nombre-repo2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Emma3TC-main&repo=randomfates-backend&theme=tokyonight)](https://github.com/Emma3TC-main/randomfates-backend)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=nombre-repo3&theme=tokyonight)](https://github.com/tuusuario/nombre-repo3)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Emma3TC-main&repo=sistema-autoatencion&theme=tokyonight)](https://github.com/Emma3TC-main/sistema-autoatencion)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Emma3TC-main&repo=innovex_app&theme=tokyonight)](https://github.com/Emma3TC-main/innovex_app)
 ---
 
 # Certifications & Achievements 🏆
@@ -119,7 +120,7 @@
 # GitHub Stats 📈
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Emma3TC-main&show_icons=true&theme=tokyonight"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
@@ -127,7 +128,7 @@
 
 # GitHub Activity Graph ⚡
 
-[![Emmanuel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tuusuario&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Emmanuel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Emma3TC-main&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -144,7 +145,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=120&section=footer"/>
 </p>
-
----
-Credits: Inspired by Aurorp1g ✨
-```

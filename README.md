@@ -153,19 +153,27 @@
 <p align="center">
 
 <a href="https://github.com/Emma3TC-main/random-fates-frontend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emma3TC-main&repo=random-fates-frontend&theme=tokyonight"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Emma3TC-main&repo=random-fates-frontend&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/Emma3TC-main/randomfates-backend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emma3TC-main&repo=randomfates-backend&theme=tokyonight"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Emma3TC-main&repo=randomfates-backend&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/Emma3TC-main/sistema-autoatencion">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emma3TC-main&repo=sistema-autoatencion&theme=tokyonight"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Emma3TC-main&repo=sistema-autoatencion&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/Emma3TC-main/innovex_app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emma3TC-main&repo=innovex_app&theme=tokyonight"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Emma3TC-main&repo=innovex_app&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Emma3TC-main/irentaspro-backend">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Emma3TC-main&repo=irentaspro-backend&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Emma3TC-main/atm">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Emma3TC-main&repo=atm&theme=tokyonight&hide_border=true"/>
 </a>
 
 </p>
@@ -201,11 +209,12 @@
 # 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emma3TC-main&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emma3TC-main&layout=compact&langs_count=8&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Emma3TC-main&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emma3TC-main&layout=compact&langs_count=8&theme=tokyonight"/>
+
 </p>
-
 ---
 
 # 🏆 GitHub Trophies

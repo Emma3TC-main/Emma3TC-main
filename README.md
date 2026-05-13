@@ -150,41 +150,10 @@
 
 # 🚀 Featured Projects
 
-<table align="center">
-<tr>
-<td width="50%">
-
-<a href="https://github.com/Emma3TC-main/random-fates-frontend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emma3TC-main&repo=random-fates-frontend&theme=tokyonight&hide_border=true" />
-</a>
-
-</td>
-<td width="50%">
-
-<a href="https://github.com/Emma3TC-main/randomfates-backend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emma3TC-main&repo=randomfates-backend&theme=tokyonight&hide_border=true" />
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-<a href="https://github.com/Emma3TC-main/sistema-autoatencion">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emma3TC-main&repo=sistema-autoatencion&theme=tokyonight&hide_border=true" />
-</a>
-
-</td>
-<td width="50%">
-
-<a href="https://github.com/Emma3TC-main/innovex_app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emma3TC-main&repo=innovex_app&theme=tokyonight&hide_border=true" />
-</a>
-
-</td>
-</tr>
-</table>
+- 🎲 [Random Fates Frontend](https://github.com/Emma3TC-main/random-fates-frontend)
+- ⚙️ [Random Fates Backend](https://github.com/Emma3TC-main/randomfates-backend)
+- 🛒 [Sistema Autoatención](https://github.com/Emma3TC-main/sistema-autoatencion)
+- 📱 [Innovex App](https://github.com/Emma3TC-main/innovex_app)
 
 ---
 

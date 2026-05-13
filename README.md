@@ -210,13 +210,7 @@
 # 📈 GitHub Stats
 
 <p align="center">
-
-<img height="180em"
-  src="https://github-readme-stats.vercel.app/api?username=Emma3TC-main&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emma3TC-main&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emma3TC-main&theme=tokyonight"/>
 </p>
 
 ---

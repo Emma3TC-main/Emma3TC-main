@@ -1,5 +1,5 @@
 ```markdown
-<img align="right" src="https://count.getloli.com/get/@:emtc-software?theme=moebooru">
+<img align="right" src="https://komarev.com/ghpvc/?username=Emma3TC-main&label=Profile%20Views&color=0e75b6&style=flat">
 
 # Emmanuel Misael Torres Centeno <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45"/>
 
@@ -32,7 +32,7 @@
 
 - 💼 LinkedIn: [linkedin.com/in/emtc-software](https://linkedin.com/in/emtc-software)
 - 📧 Email: **tcemmasv@gmail.com**
-- 🐙 GitHub: [github.com/tuusuario](https://github.com/Emma3TC-main)
+- 🐙 GitHub: [github.com/Emma3TC-main](https://github.com/Emma3TC-main)
 
 ---
 
@@ -89,6 +89,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Emma3TC-main&repo=sistema-autoatencion&theme=tokyonight)](https://github.com/Emma3TC-main/sistema-autoatencion)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Emma3TC-main&repo=innovex_app&theme=tokyonight)](https://github.com/Emma3TC-main/innovex_app)
+
 ---
 
 # Certifications & Achievements 🏆
@@ -121,8 +122,13 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Emma3TC-main&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emma3TC-main&layout=compact&theme=tokyonight" height="180"/>
 </p>
+
+---
+# GitHub Trophies 🏆
+
+![](https://github-profile-trophy.vercel.app/?username=Emma3TC-main&theme=tokyonight&no-frame=true&row=1&&margin-w=15)
 
 ---
 
